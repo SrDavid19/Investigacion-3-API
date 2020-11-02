@@ -1,0 +1,311 @@
+[
+    {
+        "id": "1",
+        "Nombre":"Marc-André",
+        "Apellido":"Ter Stegen",
+        "Nacionalidad":"Alemania",
+        "Posicion":"Portero",
+        "Dorsal":"1",
+        "Estatura":"1.88",
+        "Edad":"28",
+        "Contrato":"2025",
+        "Valor":"75M"
+
+    },{
+        "id": "2",
+        "Nombre":"Sergiño",
+        "Apellido":"Dest",
+        "Nacionalidad":"Estados Unidos",
+        "Posicion":"Lateral Derecho",
+        "Dorsal":"2",
+        "Estatura":"1.75",
+        "Edad":"20",
+        "Contrato":"2025",
+        "Valor":"20M"
+    },{
+        "id": "3",
+        "Nombre":"Gerard",
+        "Apellido":"Piqué",
+        "Nacionalidad":"España",
+        "Posicion":"Defensa Central",
+        "Dorsal":"3",
+        "Estatura":"1.92",
+        "Edad":"34",
+        "Contrato":"2024",
+        "Valor":"15M"
+
+    },{
+        "id": "4",
+        "Nombre":"Ronald",
+        "Apellido":"Araújo",
+        "Nacionalidad":"Uruguay",
+        "Posicion":"Defensa Central",
+        "Dorsal":"4",
+        "Estatura":"1.89",
+        "Edad":"19",
+        "Contrato":"2025",
+        "Valor":"15M"
+    },{
+        "id": "5",
+        "Nombre":"Sergio",
+        "Apellido":"Busquets",
+        "Nacionalidad":"España",
+        "Posicion":"Mediocampista",
+        "Dorsal":"5",
+        "Estatura":"1.90",
+        "Edad":"33",
+        "Contrato":"2023",
+        "Valor":"15M"
+
+    },{
+        "id": "6",
+        "Nombre":"Carles",
+        "Apellido":"Aleñá",
+        "Nacionalidad":"España",
+        "Posicion":"Mediocampista",
+        "Dorsal":"6",
+        "Estatura":"1.80",
+        "Edad":"20",
+        "Contrato":"2024",
+        "Valor":"15M"
+    },{
+        "id": "7",
+        "Nombre":"Antoine",
+        "Apellido":"Griezmann",
+        "Nacionalidad":"Francia",
+        "Posicion":"Delantero Centro",
+        "Dorsal":"7",
+        "Estatura":"1.77",
+        "Edad":"29",
+        "Contrato":"2024",
+        "Valor":"80M"
+
+    },{
+        "id": "8",
+        "Nombre":"Miralem",
+        "Apellido":"Pjanic",
+        "Nacionalidad":"Bosnia",
+        "Posicion":"Pivote",
+        "Dorsal":"8",
+        "Estatura":"1.80",
+        "Edad":"30",
+        "Contrato":"2024",
+        "Valor":"50M"
+
+    },{
+        "id": "9",
+        "Nombre":"Martin",
+        "Apellido":"Braithwaite",
+        "Nacionalidad":"Dinamarca",
+        "Posicion":"Delantero Centro",
+        "Dorsal":"9",
+        "Estatura":"1.88",
+        "Edad":"27",
+        "Contrato":"2023",
+        "Valor":"10M"
+
+    },{
+        "id": "10",
+        "Nombre":"Lionen",
+        "Apellido":"Messi",
+        "Nacionalidad":"Argentina",
+        "Posicion":"Extremo",
+        "Dorsal":"10",
+        "Estatura":"1.69",
+        "Edad":"32",
+        "Contrato":"2021",
+        "Valor":"100M"
+
+    },{
+        "id": "11",
+        "Nombre":"Ousmane",
+        "Apellido":"Dembelé",
+        "Nacionalidad":"Francia",
+        "Posicion":"Extremo",
+        "Dorsal":"11",
+        "Estatura":"1.85",
+        "Edad":"21",
+        "Contrato":"2023",
+        "Valor":"80M"
+
+    },{
+        "id": "12",
+        "Nombre":"Riqui",
+        "Apellido":"Piug",
+        "Nacionalidad":"España",
+        "Posicion":"Mediocampista",
+        "Dorsal":"12",
+        "Estatura":"1.69",
+        "Edad":"20",
+        "Contrato":"2013",
+        "Valor":"20M"
+
+    },{
+        "id": "13",
+        "Nombre":"Neto",
+        "Apellido":"Murara",
+        "Nacionalidad":"Brasil",
+        "Posicion":"Portero",
+        "Dorsal":"13",
+        "Estatura":"1.90",
+        "Edad":"29",
+        "Contrato":"2021",
+        "Valor":"20M"
+
+    },{
+        "id": "14",
+        "Nombre":"Philippe",
+        "Apellido":"Coutinho",
+        "Nacionalidad":"Brasil",
+        "Posicion":"Media punta",
+        "Dorsal":"14",
+        "Estatura":"1.70",
+        "Edad":"29",
+        "Contrato":"2023",
+        "Valor":"90M"
+
+    },{
+        "id": "15",
+        "Nombre":"Clement",
+        "Apellido":"Lenglet",
+        "Nacionalidad":"Francia",
+        "Posicion":"Defensa Central",
+        "Dorsal":"15",
+        "Estatura":"1.90",
+        "Edad":"26",
+        "Contrato":"2026",
+        "Valor":"50M"
+
+    },{
+        "id": "16",
+        "Nombre":"Pedri",
+        "Apellido":"Gonzalez",
+        "Nacionalidad":"España",
+        "Posicion":"Media punta",
+        "Dorsal":"16",
+        "Estatura":"1.75",
+        "Edad":"17",
+        "Contrato":"2025",
+        "Valor":"15M"
+
+    },{
+        "id": "17",
+        "Nombre":"Francisco",
+        "Apellido":"Trincao",
+        "Nacionalidad":"Portugal",
+        "Posicion":"Extremo",
+        "Dorsal":"17",
+        "Estatura":"1.72",
+        "Edad":"18",
+        "Contrato":"2025",
+        "Valor":"10M"
+
+    },{
+        "id": "18",
+        "Nombre":"Jordi",
+        "Apellido":"Alba",
+        "Nacionalidad":"España",
+        "Posicion":"Lateral Izquierdo",
+        "Dorsal":"18",
+        "Estatura":"1.70",
+        "Edad":"31",
+        "Contrato":"2025",
+        "Valor":"30M"
+
+    },{
+        "id": "19",
+        "Nombre":"Kondar",
+        "Apellido":"de la Fuente",
+        "Nacionalidad":"Estados Unidos",
+        "Posicion":"Extremo",
+        "Dorsal":"19",
+        "Estatura":"1.78",
+        "Edad":"19",
+        "Contrato":"2025",
+        "Valor":"3M"
+
+    },{
+        "id": "20",
+        "Nombre":"Sergio",
+        "Apellido":"Roberto",
+        "Nacionalidad":"España",
+        "Posicion":"Lateral Derecho",
+        "Dorsal":"20",
+        "Estatura":"1.72",
+        "Edad":"28",
+        "Contrato":"2025",
+        "Valor":"20M"
+
+    },{
+        "id": "21",
+        "Nombre":"Frankie",
+        "Apellido":"de Jong",
+        "Nacionalidad":"Holanda",
+        "Posicion":"Pivote",
+        "Dorsal":"21",
+        "Estatura":"1.75",
+        "Edad":"22",
+        "Contrato":"2024",
+        "Valor":"70M"
+
+    },{
+        "id": "22",
+        "Nombre":"Ansu",
+        "Apellido":"Fati",
+        "Nacionalidad":"España",
+        "Posicion":"Extremo",
+        "Dorsal":"22",
+        "Estatura":"1.72",
+        "Edad":"18",
+        "Contrato":"2023",
+        "Valor":"80M"
+
+    },{
+        "id": "23",
+        "Nombre":"Samuel",
+        "Apellido":"Umtiti",
+        "Nacionalidad":"Francia",
+        "Posicion":"Defensa Central",
+        "Dorsal":"23",
+        "Estatura":"1.89",
+        "Edad":"27",
+        "Contrato":"2023",
+        "Valor":"20M"
+
+    },{
+        "id": "24",
+        "Nombre":"Junior",
+        "Apellido":"Firpo",
+        "Nacionalidad":"España",
+        "Posicion":"Lateral Izquierdo",
+        "Dorsal":"24",
+        "Estatura":"1.70",
+        "Edad":"24",
+        "Contrato":"2024",
+        "Valor":"14M"
+
+    },{
+        "id": "25",
+        "Nombre":"Iñaki",
+        "Apellido":"Peña",
+        "Nacionalidad":"España",
+        "Posicion":"Portero",
+        "Dorsal":"25",
+        "Estatura":"1.84",
+        "Edad":"22",
+        "Contrato":"2023",
+        "Valor":"3M"
+    },
+    {
+        "Nombre": "David",
+        "Apellido": "Mejia",
+        "Nacionalidad": "El salvador",
+        "Posicion": "Extremo",
+        "Dorsal": "27",
+        "Estatura": "1.70",
+        "Edad": "21",
+        "Contrato": "2025",
+        "Valor": "75M"
+    }
+
+]
